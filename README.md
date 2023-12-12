@@ -49,10 +49,8 @@ from .models import Student,StudentAdmin
 admin.site.register(Student,StudentAdmin)
 ```
 
-## OUTPUT
-### STUDENT DETAILS:
+## OUTPUT:
+
 ![Alt text](image-1.png)
-### ERROR:
-![Alt text](image.png)
 ## RESULT
 Thus the program for creating the database using Django ORM has been executed successfully.
