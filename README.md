@@ -21,7 +21,7 @@ Then, migrate the codes using the required command and run the server. (python3 
 
 ## PROGRAM
 ### MODELS.PY
-```
+```py
 from django.db import models
 from django.contrib import admin
 
@@ -40,7 +40,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ### ADMINS.PY
-```
+```py
 from django.contrib import admin
 from .models import Student,StudentAdmin
 
