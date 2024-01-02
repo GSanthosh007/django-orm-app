@@ -52,8 +52,6 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT:
 ![image-1](https://github.com/GSanthosh007/django-orm-app/assets/147527586/1f265525-9abf-4b38-8c01-5e95d1a7b9d8)
-![image-2](https://github.com/GSanthosh007/django-orm-app/assets/147527586/595fbde6-203d-4685-bacf-e01d18597067)
-
 
 ## RESULT
 Thus the program for creating the database using Django ORM has been executed successfully.
